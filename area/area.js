@@ -6,7 +6,7 @@ function OnClick() {
     var area = width * height;
 
     var areaOutput = document.getElementById("output");
-    areaOutput.innerHTML = "area is... " + area;
+    areaOutput.innerHTML = "area is.. " + area;
 
 }
 

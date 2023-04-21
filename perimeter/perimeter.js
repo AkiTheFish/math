@@ -6,7 +6,7 @@ function OnClick() {
     var perimeter = (width + height) * 2;
 
     var perimeterOutput = document.getElementById("output");
-    perimeterOutput.innerHTML = "perimeter is... " + perimeter;
+    perimeterOutput.innerHTML = "perimeter is.. " + perimeter;
 
 }
 
