@@ -1,0 +1,29 @@
+body {
+
+    background-color: antiquewhite;
+    
+}
+
+.button {
+
+    cursor: pointer;
+
+    padding: 2%;
+    margin: 1%;
+
+    background-color: rgba(0, 0, 0, 0.345);
+    border: none;
+    border-radius: 25px;
+
+    color: white;
+
+    font-size: 200%;
+    
+    @font-face {
+        font-family: Quicksand;
+        src: url(Quicksand Regular 400.ttf);
+    }
+
+    font-family: Quicksand;
+
+}

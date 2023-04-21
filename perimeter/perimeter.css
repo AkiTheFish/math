@@ -1,0 +1,86 @@
+body {
+
+    background-color: antiquewhite;
+
+}
+
+.buttons {
+
+    background-color: rgba(0, 0, 0, 0.345);
+    border: none;
+    border-radius: 25px;
+
+    cursor: pointer;
+
+    @font-face {
+
+        font-family: Quicksand;
+        src: url(Quicksand Regular 400.ttf);
+
+    }
+
+    font-family: Quicksand;
+
+    font-size: 100px;
+    color: white;
+
+}
+
+.textBoxes {
+
+    text-align: center;
+
+    background-color: rgba(0, 0, 0, 0.231);
+    border: none;
+    border-radius: 25px;
+
+    font-family: Quicksand;
+    font-size: 25px;
+
+    color: white;
+
+    outline: none;
+
+}
+
+.output {
+
+    text-align: center;
+
+    display: inline-block;
+    padding: 5px;
+
+    background-color: rgba(0, 0, 0, 0.231);
+
+    border: none;
+    border-radius: 15px;
+
+    font-family: Quicksand;
+    font-size: 25px;
+
+    color: white;
+
+    outline: none;
+
+}
+
+.back {
+
+    position: absolute;
+
+    bottom: 1%;
+
+    cursor: pointer;
+
+    padding: 7px;
+
+    background-color: rgba(0, 0, 0, 0.231);
+    border: none;
+    border-radius: 15px;
+
+    color: white;
+
+    font-size: 25px;
+    font-family: Quicksand;
+
+}
